@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A27711CE-FB4F-4C77-B99B-A21C6804CFF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevesGames.API", "NevesGames.API\NevesGames.API.csproj", "{071878A5-875E-4FAA-914B-46B061819308}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevesGames.InfraData", "NevesGames.InfraData\NevesGames.InfraData.csproj", "{D8A544A3-CF40-4C45-B6A2-71EBF1CC84AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NevesGames.Application", "NevesGames.Application\NevesGames.Application.csproj", "{8C3AE6F1-F392-4BF2-A911-432802C8BC63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{071878A5-875E-4FAA-914B-46B061819308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071878A5-875E-4FAA-914B-46B061819308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071878A5-875E-4FAA-914B-46B061819308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071878A5-875E-4FAA-914B-46B061819308}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A544A3-CF40-4C45-B6A2-71EBF1CC84AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A544A3-CF40-4C45-B6A2-71EBF1CC84AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A544A3-CF40-4C45-B6A2-71EBF1CC84AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A544A3-CF40-4C45-B6A2-71EBF1CC84AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C3AE6F1-F392-4BF2-A911-432802C8BC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3AE6F1-F392-4BF2-A911-432802C8BC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3AE6F1-F392-4BF2-A911-432802C8BC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3AE6F1-F392-4BF2-A911-432802C8BC63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{071878A5-875E-4FAA-914B-46B061819308} = {A27711CE-FB4F-4C77-B99B-A21C6804CFF2}
+		{D8A544A3-CF40-4C45-B6A2-71EBF1CC84AD} = {A27711CE-FB4F-4C77-B99B-A21C6804CFF2}
+		{8C3AE6F1-F392-4BF2-A911-432802C8BC63} = {A27711CE-FB4F-4C77-B99B-A21C6804CFF2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD72532B-28E6-44AB-AD70-176C7C3ECA33}
+	EndGlobalSection
+EndGlobal

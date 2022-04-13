@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QMWyHFUswOMpWvRXCt5MKkRtL8g7AK9+P9H5+uNoj1WnxpERTMhHt89eGQk568p2zEJSdTunL8joQYoZ4hF08w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mila_neves\\source\\repos\\NevesGames\\NevesGames\\NevesGames.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mila_neves\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
